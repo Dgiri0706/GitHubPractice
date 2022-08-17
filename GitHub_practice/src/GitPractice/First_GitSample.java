@@ -6,6 +6,8 @@ public class First_GitSample {
 		
 		
 		System.out.println("First Git Sample");
+		
+		System.out.println("Now 2 push");
 
 	}
 
